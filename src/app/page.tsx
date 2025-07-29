@@ -31,7 +31,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
           <div className="flex items-center">
             <Image src="/mailsy-logo.svg" alt="Mailsy Logo" width={64} height={64} priority />
-            <span className="ml-4 text-3xl font-bold text-[#9900CB]">Mailsy</span>
+            <span className="ml-4 text-3xl font-bold text-[#854BE5]">Mailsy</span>
           </div>
           <button
             onClick={() => setShowLogin(true)}
